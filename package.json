@@ -39,7 +39,7 @@
 		"hrtime"
 	],
 	"dependencies": {
-		"parse-ms": "^2.1.0"
+		"parse-ms": "https://github.com/wighawag/parse-ms#0b21d8f5d7970c049b7fca46bfff78e3113542bc"
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",
